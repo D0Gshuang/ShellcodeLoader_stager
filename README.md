@@ -1,0 +1,2 @@
+# ShellcodeLoader_stager
+自用ShellcodeLoader模板，通过网络获取shellcode并执行。
